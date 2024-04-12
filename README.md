@@ -1,1 +1,1 @@
-## It adds to numbers. That's it.
+## It adds two numbers. That's it.
