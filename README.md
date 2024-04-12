@@ -1,1 +1,1 @@
-## Empty CPP - CPP project template for VSCode + MinGW + CMake
+## It adds to numbers. That's it.
