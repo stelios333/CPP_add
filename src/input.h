@@ -1,3 +1,4 @@
 #pragma once
-#include <string>
-int getUserInput(string prompt);
+#include <iostream>
+
+int getUserInput(std::string prompt);

@@ -1,7 +1,7 @@
 #include <iostream>
-#include <string>
-int getUserInput(string prompt) {
-    std::cout << "Enter an integer: ";
+
+int getUserInput(std::string prompt) {
+    std::cout << prompt;
     int num {};
     std::cin >> num;
     return num;
